@@ -1,4 +1,4 @@
-# Excel-Dashboards
+# Excel-Dashboard
 This is the first MS Excel Project. 
 
 The dataset is a Sample Sales data. 
