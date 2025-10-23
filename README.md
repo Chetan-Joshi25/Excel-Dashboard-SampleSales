@@ -5,10 +5,10 @@ The dataset is a Sample Sales data.
 I analyzed the dataset using MS Excel. Since the dataset is small, the cleaning of the data was done instantly. 
 I created a pivot table and refined the data points to align with the analysis requirements.
 Worked upon the following charts:
-# •	Sales by Months
-# •	Sales by Salesperson
-# •	Items sold by Category
-# •	Items sold by Cities
+ •	Sales by Months
+ •	Sales by Salesperson
+ •	Items sold by Category
+ •	Items sold by Cities
 
 Maximum sales of $2309 was carried in the month of June, while February had the lowest sales of $926. A line chart was used for the visualization, which clearly showed us the peaks and sales that took place over the year. 
 I have used pie charts in order to see the items share in cities as well as the item category.
